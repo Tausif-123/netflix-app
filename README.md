@@ -11,6 +11,11 @@
 - Deploying our app to production
 - create signup user account
 
+-Redux
+-Implemented signout
+-update profile
+-Unsubscribe to the onAuthStateChange callback
+
 # Features
 
 - Login/signup page
